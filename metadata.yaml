@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/861
     wikipedia: http://en.wikipedia.org/wiki/Henrik_Ibsen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17092#Inger--str-tin-rouva--Viisin-yt-ksinen-murhen-ytelm-
 gutenberg_issued: '2005-11-18'
 gutenberg_type: Text
 identifiers:
